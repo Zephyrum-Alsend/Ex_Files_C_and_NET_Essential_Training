@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\refint\ReadWriteFiles.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ref\ReadWriteFiles.dll

@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\refint\CreateFiles.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net6.0\ref\CreateFiles.dll
