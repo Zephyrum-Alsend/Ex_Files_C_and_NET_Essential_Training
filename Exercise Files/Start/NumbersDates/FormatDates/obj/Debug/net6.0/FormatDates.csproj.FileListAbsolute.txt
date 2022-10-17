@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\refint\FormatDates.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatDates\obj\Debug\net6.0\ref\FormatDates.dll

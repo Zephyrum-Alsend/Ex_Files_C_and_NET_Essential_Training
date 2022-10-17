@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll

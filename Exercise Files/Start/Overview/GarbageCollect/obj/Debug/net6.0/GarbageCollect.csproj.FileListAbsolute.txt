@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\refint\GarbageCollect.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll

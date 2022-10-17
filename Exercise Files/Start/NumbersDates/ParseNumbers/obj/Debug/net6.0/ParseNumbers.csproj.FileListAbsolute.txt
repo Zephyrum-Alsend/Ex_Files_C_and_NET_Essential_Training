@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\refint\ParseNumbers.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ref\ParseNumbers.dll

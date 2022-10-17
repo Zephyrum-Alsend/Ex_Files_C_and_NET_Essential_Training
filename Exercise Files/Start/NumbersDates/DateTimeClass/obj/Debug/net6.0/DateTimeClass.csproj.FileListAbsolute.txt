@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll

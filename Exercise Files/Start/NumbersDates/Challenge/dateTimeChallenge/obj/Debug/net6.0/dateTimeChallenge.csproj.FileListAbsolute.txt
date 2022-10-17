@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\bin\Debug\net6.0\dateTimeChallenge.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\bin\Debug\net6.0\dateTimeChallenge.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\bin\Debug\net6.0\dateTimeChallenge.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\bin\Debug\net6.0\dateTimeChallenge.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\bin\Debug\net6.0\dateTimeChallenge.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\refint\dateTimeChallenge.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\dateTimeChallenge.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\dateTimeChallenge\obj\Debug\net6.0\ref\dateTimeChallenge.dll

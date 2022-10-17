@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll

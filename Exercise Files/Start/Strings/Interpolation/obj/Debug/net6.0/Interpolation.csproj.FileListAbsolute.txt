@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\refint\Interpolation.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll
