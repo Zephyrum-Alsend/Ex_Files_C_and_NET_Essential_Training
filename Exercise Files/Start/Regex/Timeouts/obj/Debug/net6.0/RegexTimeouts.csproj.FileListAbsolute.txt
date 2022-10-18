@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\refint\RegexTimeouts.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Timeouts\obj\Debug\net6.0\ref\RegexTimeouts.dll

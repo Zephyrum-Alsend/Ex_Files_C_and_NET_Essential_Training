@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll

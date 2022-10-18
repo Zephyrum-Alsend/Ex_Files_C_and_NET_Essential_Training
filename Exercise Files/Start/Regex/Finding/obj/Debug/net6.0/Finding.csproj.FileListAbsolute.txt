@@ -1,0 +1,15 @@
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\bin\Debug\net6.0\Finding.exe
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\bin\Debug\net6.0\Finding.deps.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\bin\Debug\net6.0\Finding.runtimeconfig.json
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\bin\Debug\net6.0\Finding.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\bin\Debug\net6.0\Finding.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.csproj.AssemblyReference.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfoInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfo.cs
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.csproj.CoreCompileInputs.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\refint\Finding.dll
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
+E:\CodePractice\LinkedInLearning\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
